@@ -47,12 +47,13 @@ This project demonstrates principles of **distributed systems**, **network progr
 
 <img width="474" height="208" alt="Captura de ecrã 2025-12-14, às 16 59 10" src="https://github.com/user-attachments/assets/228c2fcb-2e88-4c6d-a78e-66df763c7008" />
 
+### Lizard Behaviour Sequence Diagram 
 
+<img width="487" height="225" alt="Captura de ecrã 2025-12-14, às 17 08 18" src="https://github.com/user-attachments/assets/77289ae9-c3f3-45c7-b8fa-2ebae27f24b4" />
 
-<img width="410" height="249" alt="Captura de ecrã 2025-12-14, às 16 59 39" src="https://github.com/user-attachments/assets/7f637a03-73d9-4e6f-a29e-6f4abc0480b5" />
+### Bot Behaviour Sequence Diagram
 
-<img width="490" height="241" alt="Captura de ecrã 2025-12-14, às 16 59 27" src="https://github.com/user-attachments/assets/f00790eb-61f6-41bf-a6a1-183a2993ed8b" />
-
+<img width="414" height="217" alt="Captura de ecrã 2025-12-14, às 17 08 32" src="https://github.com/user-attachments/assets/14b0437b-8bd6-4546-b7ac-8e4699c2e88a" />
 
 The server:
 - Maintains the full board state  
